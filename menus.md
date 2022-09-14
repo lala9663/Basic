@@ -1,13 +1,7 @@
-first-repo
+## Candidates
 
-Today Menu
-`<p>Pragraph</p>
-
-##Index
-first: gukbab
-second: coffee
-
-##How to eat
-delicious
+1. gukbab
+2. coffee
+3. Sandwitch
 
 
