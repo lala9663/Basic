@@ -1,4 +1,4 @@
-## Candidates
+## Menu for Lunch
 
 1. gukbab
 2. coffee
@@ -6,9 +6,9 @@
 
 ## New condidates
 
-4. Kimchi soup
-5. Soy sauce soup
-6. Troops soip
+4. Steak
+5. Pizza
+6. Donut
 7. Bibimbob
 
 
