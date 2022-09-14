@@ -1,4 +1,4 @@
-## Candidates
+## Menus
 
 1. gukbab
 2. coffee
@@ -6,8 +6,8 @@
 
 ## New condidates
 
-4. Kimchi soup
-5. Soy sauce soup
+4. Steamed Kimchi
+5. chung-gook-jang
 6. Troops soip
 7. Bibimbob
 
