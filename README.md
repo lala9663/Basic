@@ -16,8 +16,8 @@
 - 제출방법
   - 본인의 이름으로 <code>branch</code>를 생성하여 <code>push</code>후 pull request 작성
     - 예시 
-      - <code>branch 이름</code> - <code>EunbinChoi</code>
-      - <code>commit 메시지</code> - <code>Java Assignment1 upload by EunbinChoi</code>
+      - <code>branch 이름</code> - <code>FirstNameLastName</code>
+      - <code>commit 메시지</code> - <code>Java Assignment1 upload by FirstNameLastName</code>
   - pull request는 본인이 하고 싶은 말이나 질문을 적어주세요.
     - <code>코드리뷰 빡세게 부탁드립니다.</code> <code>클린한 코드인지 봐주세요.</code> <code>이 코드의 조금 더 나은 방법이 있을까요.</code>
     - <code>~~번 문제 풀지 못했습니다.</code> <code>~~번 문제 풀이 방법을 알려주시면 감사하겠습니다.</code>
