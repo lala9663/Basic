@@ -27,13 +27,7 @@ public class Practice05 {
                 break;
 
             case 2:
-                if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
-                    totalDays = 29;
-                }
-                else {
-                    totalDays = 28;
-                }
-
+                totalDays = 28;
                 break;
         }
 
